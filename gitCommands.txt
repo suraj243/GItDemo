@@ -15,5 +15,9 @@ git stash    (local storage)
 git stash apply
 git stash list
 
+<<<<<<< HEAD
 git doNothing
+=======
+git rebase 
+>>>>>>> 024aaa26e659df5c20dd703fd6cd1f453b2600ee
 
