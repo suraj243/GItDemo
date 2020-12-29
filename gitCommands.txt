@@ -1,0 +1,19 @@
+clone-git clone repo_name
+
+to make a new branch globally- git checkout -b "branch_name"
+
+steps- 1.git status
+2. git diff file_name
+3. git add *.java
+4. git commit -m "msg"
+5. git push origin branch_name
+
+
+git checkout file_name
+
+git stash    (local storage)
+git stash apply
+git stash list
+
+git rebase 
+
